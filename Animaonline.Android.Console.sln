@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animaonline.Android.Console", "Animaonline.Android.Console\Animaonline.Android.Console.csproj", "{467F0231-B4D8-40F1-8C6F-0FCA3CC7AA65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActionBarSherlock", "ActionBarSherlock\ActionBarSherlock.csproj", "{2D5471B2-8255-4E47-97E9-EEB28678CC82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release.Free|Any CPU = Release.Free|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{467F0231-B4D8-40F1-8C6F-0FCA3CC7AA65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{467F0231-B4D8-40F1-8C6F-0FCA3CC7AA65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{467F0231-B4D8-40F1-8C6F-0FCA3CC7AA65}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{467F0231-B4D8-40F1-8C6F-0FCA3CC7AA65}.Release.Free|Any CPU.ActiveCfg = Release|Any CPU
+		{467F0231-B4D8-40F1-8C6F-0FCA3CC7AA65}.Release.Free|Any CPU.Build.0 = Release|Any CPU
+		{467F0231-B4D8-40F1-8C6F-0FCA3CC7AA65}.Release.Free|Any CPU.Deploy.0 = Release|Any CPU
+		{467F0231-B4D8-40F1-8C6F-0FCA3CC7AA65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{467F0231-B4D8-40F1-8C6F-0FCA3CC7AA65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{467F0231-B4D8-40F1-8C6F-0FCA3CC7AA65}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{2D5471B2-8255-4E47-97E9-EEB28678CC82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D5471B2-8255-4E47-97E9-EEB28678CC82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D5471B2-8255-4E47-97E9-EEB28678CC82}.Release.Free|Any CPU.ActiveCfg = Release.Free|Any CPU
+		{2D5471B2-8255-4E47-97E9-EEB28678CC82}.Release.Free|Any CPU.Build.0 = Release.Free|Any CPU
+		{2D5471B2-8255-4E47-97E9-EEB28678CC82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D5471B2-8255-4E47-97E9-EEB28678CC82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

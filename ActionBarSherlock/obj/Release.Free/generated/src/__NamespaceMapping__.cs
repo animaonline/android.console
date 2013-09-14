@@ -1,0 +1,5 @@
+[assembly:global::Android.Runtime.NamespaceMapping (Java = "android.support.v4.app", Managed="Android.Support.V4.App")]
+[assembly:global::Android.Runtime.NamespaceMapping (Java = "com.actionbarsherlock", Managed="Com.Actionbarsherlock")]
+[assembly:global::Android.Runtime.NamespaceMapping (Java = "com.actionbarsherlock.app", Managed="Com.Actionbarsherlock.App")]
+[assembly:global::Android.Runtime.NamespaceMapping (Java = "com.actionbarsherlock.view", Managed="Com.Actionbarsherlock.View")]
+[assembly:global::Android.Runtime.NamespaceMapping (Java = "com.actionbarsherlock.widget", Managed="Com.Actionbarsherlock.Widget")]

@@ -1,0 +1,2 @@
+c:\users\animaonline\documents\visual studio 2012\Projects\Animaonline.Android.Console\Animaonline.Android.Console\bin\Debug\Animaonline.Android.Console.dll
+c:\users\animaonline\documents\visual studio 2012\Projects\Animaonline.Android.Console\ActionBarSherlock\bin\Debug\ActionBarSherlock.dll

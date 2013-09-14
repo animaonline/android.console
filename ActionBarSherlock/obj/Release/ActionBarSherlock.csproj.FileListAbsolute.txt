@@ -1,0 +1,6 @@
+C:\Users\Animaonline\Documents\DocBox\Addo.DocBox\ActionBarSherlock\bin\Release\ActionBarSherlock.dll
+C:\Users\Animaonline\Documents\DocBox\Addo.DocBox\ActionBarSherlock\obj\Release\ActionBarSherlock.dll
+E:\dev\src\android\FanFiction\TFS\ActionBarSherlock\bin\Release\ActionBarSherlock.dll
+E:\dev\src\android\FanFiction\TFS\ActionBarSherlock\obj\Release\ActionBarSherlock.dll
+E:\dev\src\android-mono\Animaonline.CShell\ActionBarSherlock\bin\Release\ActionBarSherlock.dll
+E:\dev\src\android-mono\Animaonline.CShell\ActionBarSherlock\obj\Release\ActionBarSherlock.dll

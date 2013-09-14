@@ -1,0 +1,8 @@
+E:\dev\src\android\FanFiction\TFS\ActionBarSherlock\bin\Release.Free\ActionBarSherlock.dll
+E:\dev\src\android\FanFiction\TFS\ActionBarSherlock\bin\Release.Free\ActionBarSherlock.pdb
+E:\dev\src\android\FanFiction\TFS\ActionBarSherlock\obj\Release.Free\ActionBarSherlock.dll
+E:\dev\src\android\FanFiction\TFS\ActionBarSherlock\obj\Release.Free\ActionBarSherlock.pdb
+E:\dev\src\android-mono\Animaonline.CShell\ActionBarSherlock\bin\Release.Free\ActionBarSherlock.dll
+E:\dev\src\android-mono\Animaonline.CShell\ActionBarSherlock\bin\Release.Free\ActionBarSherlock.pdb
+E:\dev\src\android-mono\Animaonline.CShell\ActionBarSherlock\obj\Release.Free\ActionBarSherlock.dll
+E:\dev\src\android-mono\Animaonline.CShell\ActionBarSherlock\obj\Release.Free\ActionBarSherlock.pdb

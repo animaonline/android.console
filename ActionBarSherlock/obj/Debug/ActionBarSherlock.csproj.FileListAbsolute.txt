@@ -1,0 +1,32 @@
+C:\Users\roal\Downloads\xamarin-monodroid-samples-f49f465 (2)\xamarin-monodroid-samples-f49f465\ActionBarSherlock\ActionBarSherlock\bin\Debug\ActionBarSherlock.dll
+C:\Users\roal\Downloads\xamarin-monodroid-samples-f49f465 (2)\xamarin-monodroid-samples-f49f465\ActionBarSherlock\ActionBarSherlock\bin\Debug\ActionBarSherlock.pdb
+C:\Users\roal\Downloads\xamarin-monodroid-samples-f49f465 (2)\xamarin-monodroid-samples-f49f465\ActionBarSherlock\ActionBarSherlock\obj\Debug\ActionBarSherlock.dll
+C:\Users\roal\Downloads\xamarin-monodroid-samples-f49f465 (2)\xamarin-monodroid-samples-f49f465\ActionBarSherlock\ActionBarSherlock\obj\Debug\ActionBarSherlock.pdb
+C:\Users\roal\Downloads\x.samples\samples\ActionBarSherlock\ActionBarSherlock\bin\Debug\ActionBarSherlock.dll
+C:\Users\roal\Downloads\x.samples\samples\ActionBarSherlock\ActionBarSherlock\bin\Debug\ActionBarSherlock.pdb
+C:\Users\roal\Downloads\x.samples\samples\ActionBarSherlock\ActionBarSherlock\obj\Debug\ActionBarSherlock.dll
+C:\Users\roal\Downloads\x.samples\samples\ActionBarSherlock\ActionBarSherlock\obj\Debug\ActionBarSherlock.pdb
+C:\src\android\Addo.DocBox\ActionBarSherlock\bin\Debug\ActionBarSherlock.dll
+C:\src\android\Addo.DocBox\ActionBarSherlock\bin\Debug\ActionBarSherlock.pdb
+C:\src\android\Addo.DocBox\ActionBarSherlock\obj\Debug\ActionBarSherlock.dll
+C:\src\android\Addo.DocBox\ActionBarSherlock\obj\Debug\ActionBarSherlock.pdb
+C:\Users\Animaonline\Documents\DocBox\Addo.DocBox\ActionBarSherlock\bin\Debug\ActionBarSherlock.dll
+C:\Users\Animaonline\Documents\DocBox\Addo.DocBox\ActionBarSherlock\bin\Debug\ActionBarSherlock.pdb
+C:\Users\Animaonline\Documents\DocBox\Addo.DocBox\ActionBarSherlock\obj\Debug\ActionBarSherlock.dll
+C:\Users\Animaonline\Documents\DocBox\Addo.DocBox\ActionBarSherlock\obj\Debug\ActionBarSherlock.pdb
+E:\dev\src\android\FanFiction\TFS\ActionBarSherlock\bin\Debug\ActionBarSherlock.dll
+E:\dev\src\android\FanFiction\TFS\ActionBarSherlock\bin\Debug\ActionBarSherlock.pdb
+E:\dev\src\android\FanFiction\TFS\ActionBarSherlock\obj\Debug\ActionBarSherlock.dll
+E:\dev\src\android\FanFiction\TFS\ActionBarSherlock\obj\Debug\ActionBarSherlock.pdb
+E:\dev\src\android\CShell.Console\ActionBarSherlock\bin\Debug\ActionBarSherlock.dll
+E:\dev\src\android\CShell.Console\ActionBarSherlock\bin\Debug\ActionBarSherlock.pdb
+E:\dev\src\android\CShell.Console\ActionBarSherlock\obj\Debug\ActionBarSherlock.dll
+E:\dev\src\android\CShell.Console\ActionBarSherlock\obj\Debug\ActionBarSherlock.pdb
+E:\dev\src\android-mono\Animaonline.CShell\ActionBarSherlock\bin\Debug\ActionBarSherlock.dll
+E:\dev\src\android-mono\Animaonline.CShell\ActionBarSherlock\bin\Debug\ActionBarSherlock.pdb
+E:\dev\src\android-mono\Animaonline.CShell\ActionBarSherlock\obj\Debug\ActionBarSherlock.dll
+E:\dev\src\android-mono\Animaonline.CShell\ActionBarSherlock\obj\Debug\ActionBarSherlock.pdb
+c:\users\animaonline\documents\visual studio 2012\Projects\Animaonline.Android.Console\ActionBarSherlock\bin\Debug\ActionBarSherlock.dll
+c:\users\animaonline\documents\visual studio 2012\Projects\Animaonline.Android.Console\ActionBarSherlock\bin\Debug\ActionBarSherlock.pdb
+c:\users\animaonline\documents\visual studio 2012\Projects\Animaonline.Android.Console\ActionBarSherlock\obj\Debug\ActionBarSherlock.dll
+c:\users\animaonline\documents\visual studio 2012\Projects\Animaonline.Android.Console\ActionBarSherlock\obj\Debug\ActionBarSherlock.pdb
