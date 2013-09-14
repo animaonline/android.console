@@ -1,4 +1,4 @@
-android.console
+Animaonline.Android.Console
 ===============
 
 ![Screenshot](/screenshot.png "Screenshot")
